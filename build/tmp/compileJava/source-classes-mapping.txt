@@ -1,0 +1,12 @@
+com/demo/guru99/steps/RegistroStep.java
+ com.demo.guru99.steps.RegistroStep
+com/demo/guru99/pageObjects/RegistroPageObject.java
+ com.demo.guru99.pageObjects.RegistroPageObject
+com/demo/guru99/models/DatosRegistro.java
+ com.demo.guru99.models.DatosRegistro
+com/demo/guru99/steps/PaginaInicioStep.java
+ com.demo.guru99.steps.PaginaInicioStep
+com/demo/guru99/models/DatosLogin.java
+ com.demo.guru99.models.DatosLogin
+com/demo/guru99/pageObjects/PaginaInicioPageObject.java
+ com.demo.guru99.pageObjects.PaginaInicioPageObject

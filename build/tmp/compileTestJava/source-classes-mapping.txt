@@ -1,0 +1,8 @@
+com/demo/guru99/runners/RegistroRunner.java
+ com.demo.guru99.runners.RegistroRunner
+com/demo/guru99/stepDefinitions/LoginStepDefinition.java
+ com.demo.guru99.stepDefinitions.LoginStepDefinition
+com/demo/guru99/stepDefinitions/RegistroStepDefinition.java
+ com.demo.guru99.stepDefinitions.RegistroStepDefinition
+com/demo/guru99/runners/LoginRunner.java
+ com.demo.guru99.runners.LoginRunner
